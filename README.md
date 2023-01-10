@@ -42,6 +42,26 @@ The content of this project itself is licensed under the [Creative Commons Attri
 ---
 
 ## Notes from first Lecture 
+### to do
+* practice assignment on jupyter labs 
+* weekly quizzes on lecture content (8/9 quizzes counted) 
+*   posted on canvas on friday and due on monday 
+* discussion labs count! (1 will be dropped)
+* 
 
-* hello
+* learn how to accomplish tasks using data science 
+* data science: finding value in data
+* data science: scientific process of extracting valuable information from data
+* 10 weeks and 2 topics (each week is a new topic) 
+* week 1: data science intro & review of python & version control (e.g. github) 
+* uses jupyter lab and notebooks 
+* assignments are due on fridays 
+* data scientist ask questions and answert them with data 
+* 
+
+---
+
+## Course Links 
+![image](https://user-images.githubusercontent.com/82544669/211632207-6a0fe0d1-c404-4085-9413-bfc5a8379ce2.png)
+
 
