@@ -45,9 +45,10 @@ The content of this project itself is licensed under the [Creative Commons Attri
 ### to do
 * practice assignment on jupyter labs 
 * weekly quizzes on lecture content (8/9 quizzes counted) 
-*   posted on canvas on friday and due on monday 
+  *posted on canvas on friday and due on monday 
 * discussion labs count! (1 will be dropped)
-* 
+* assignments will be on github - we get our ouwn repositories 
+
 
 * learn how to accomplish tasks using data science 
 * data science: finding value in data
@@ -57,7 +58,8 @@ The content of this project itself is licensed under the [Creative Commons Attri
 * uses jupyter lab and notebooks 
 * assignments are due on fridays 
 * data scientist ask questions and answert them with data 
-* 
+
+* assignments are completed and graded automatically 
 
 ---
 
